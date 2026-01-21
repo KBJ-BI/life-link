@@ -7,7 +7,7 @@ import time
 # ⚙️ 설정 및 API 키
 # =========================================================
 # 여기에 본인의 API 키를 입력하세요
-FIXED_API_KEY = "여기에_API_키를_붙여넣으세요"
+FIXED_API_KEY = "AIzaSyCqYWVqV_JPC6hVJNTx7N68B2MEtXbDa4g"
 
 st.set_page_config(
     page_title="Life-Link | 당신의 경험이 책이 됩니다",
